@@ -30,6 +30,7 @@ class AboutActivity : CatimaAppCompatActivity() {
         setContentView(binding.root)
         setSupportActionBar(binding.toolbar)
         enableToolbarBackButton()
+        0/0
 
         binding.apply {
             creditsSub.text = content.copyrightShort

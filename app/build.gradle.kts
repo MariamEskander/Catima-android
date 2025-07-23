@@ -127,6 +127,8 @@ dependencies {
     implementation("com.jaredrummler:colorpicker:1.1.0")
     implementation("net.lingala.zip4j:zip4j:2.11.5")
 
+    implementation("com.instabug.library:instabug:15.0.2")
+
     // Testing
     val androidXTestVersion = "1.6.1"
     val junitVersion = "4.13.2"
